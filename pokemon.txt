@@ -1,0 +1,12 @@
+pichu
+pikachu
+raichu
+charmander
+charmeleon
+charizard
+bulbasaur
+ivysaur
+venosaur
+squirtle
+wartorte
+blastoise
